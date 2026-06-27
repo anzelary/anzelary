@@ -4,18 +4,12 @@ Analytical Data Analyst with 15+ years’ experience in finance operations acros
 
 ### My Projects:
 ---
-### SSMS (SQL) & Lucidchart (ERD): University Courses and Student Performance Analytics 
-https://github.com/anzelary/UniversityDB_SQL_SMSS
-### Excel: Retail Sales Dashboard
-https://github.com/anzelary/retail-sales-dashboard-excel
-### Tableau: Retail Sales Dashboard
-https://github.com/anzelary/retail-sales-dashboard-tableau
-### Jupyter Notebook (Python): Payroll reconciliation, Tax Apportioning and Analysis by Department
-https://github.com/anzelary/payroll_reconciliation
-### Jupyter Notebook (Python): School Budget Variance Analysis 
-https://github.com/anzelary/school_budget_variances_analysis
-### Lucid: UML Activity Model: School Purchasing Process Flow  
-<a href="https://lucid.app/publicSegments/view/63acf15a-8f36-4a43-aea2-47a04f80c7b4/image.jpeg" target="_blank">View the diagram(opens externally)</a>
+- [SSMS (SQL) & Lucidchart (ERD): University Courses and Student Performance Analytics](https://github.com/anzelary/UniversityDB_SQL_SMSS)
+- [Excel: Retail Sales Dashboard](https://github.com/anzelary/retail-sales-dashboard-excel)
+- [Tableau: Retail Sales Dashboard](https://github.com/anzelary/retail-sales-dashboard-tableau)
+- [Jupyter Notebook (Python): Payroll reconciliation, Tax Apportioning and Analysis by Department](https://github.com/anzelary/payroll_reconciliation)
+- [Jupyter Notebook (Python): School Budget Variance Analysis ](https://github.com/anzelary/school_budget_variances_analysis)
+- [Lucid: UML Activity Model: School Purchasing Process Flow  ](https://lucid.app/publicSegments/view/63acf15a-8f36-4a43-aea2-47a04f80c7b4/image.jpeg)
 
 
 
